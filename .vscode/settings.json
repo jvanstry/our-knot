@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/78720d89-d72f-4e66-8eaf-206b919a7756/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/RachelJerryWedding",
+    "appService.deploySubpath": ""
+}
